@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+
+    <!-- Message screens -->
+    <string name="content.loading">Загрузка…</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ButterKnife</string>
+
+    <string name="start.button.title.findbyid">Find by id</string>
+    <string name="start.button.title.butterknife">Butter Knife</string>
+    <string name="start.toast.todo">TO DO</string>
+
+    <string name="findbyid.button.title.next">Дальше</string>
+    <string name="findbyid.display.text.message1">Это активити сделано при помощи стандартных android средств</string>
+    <string name="findbyid.display.text.message2">Пора сделать его используя ButterKnife!</string>
+    <string-array name="recyclerItems">
+        <item>Побледневшие листья окна\nЗарастают прозрачной водой.\nУ воды нет ни смерти, ни дна.\nЯ прощаюсь с тобой.\nГорсть тепла после долгой зимы\nДонесем. Пять минут до утра\nДоживем. Наше море вины.\nПоглощает время-дыра.</item>
+        <item>Припев:\nЭто все, что останется после меня,\nЭто все, что возьму я с собой.
+        </item>
+        <item>С нами память сидит у стола,\nА в руке ее пламя свечи.\nТы такою хорошей была.\nПосмотри на меня, не молчи.\nКрики чайки на белой стене\nОкольцованны черной луной.\nНарисуй что-нибудь на окне\nИ шепни на прощанье рекой.
+        </item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+
+    </string-array>
+</resources>

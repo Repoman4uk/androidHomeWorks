@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragmentsAffiche</string>
+
+    <string name="film.director">Режисёр: %s</string>
+    <string name="cinemas">Кинотеатры</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <string-array name="items">
+        <item>Всё</item>
+        <item>Экшн</item>
+        <item>Мультфильмы</item>
+        <item>Фантастика</item>
+
+    </string-array>
+</resources>

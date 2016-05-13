@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@color/white">
+
+    <fragment
+        android:id="@+id/film_chooser"
+        android:name="com.itis.androidlab.fragmentsaffiche.fragments.FilmChooserFragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <fragment
+        android:id="@+id/film_details"
+        android:name="com.itis.androidlab.fragmentsaffiche.fragments.FilmDetailsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
